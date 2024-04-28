@@ -26,6 +26,7 @@ namespace _2324_2Y_2B_IntegProg_LoginSample
 
         public MainWindow()
         {
+            //IAMTRYINGTOGITHUB
             InitializeComponent();
             _dbConn = new DataClassDataContext(
                 Properties.Settings.Default._2324_2B_LoginSampleConnectionString);
